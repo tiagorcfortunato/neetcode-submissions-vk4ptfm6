@@ -20,7 +20,7 @@ Solutions are organized by problem name within the `Data Structures & Algorithms
 
 ---
 
-## 📊 Progress Summary
+##  Progress Summary
 
 Current focus areas and solved problems:
 
