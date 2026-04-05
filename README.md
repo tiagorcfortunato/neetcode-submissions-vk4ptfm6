@@ -22,9 +22,11 @@ Solutions are organized by problem name within the `Data Structures & Algorithms
 
 ##  Progress Summary
 
+**20 / 150 problems solved**
+
 Current focus areas and solved problems:
 
-### **Array & Hashing**
+### **Array & Hashing** (9/9) ✓
 - ✅ Duplicates Detection
 - ✅ Anagram Analysis
 - ✅ Two Integer Sum
@@ -35,18 +37,19 @@ Current focus areas and solved problems:
 - ✅ Valid Sudoku
 - ✅ Longest Consecutive Sequence
 
-### **Two Pointers**
+### **Two Pointers** (5/5) ✓
 - ✅ Is Palindrome
 - ✅ Two Integer Sum II
 - ✅ Three Integer Sum
 - ✅ Max Water Container
 - ✅ Trapping Rain Water
 
-### **Sliding Window**
+### **Sliding Window** (5/6)
 - ✅ Buy and Sell Crypto
 - ✅ Longest Substring Without Duplicates
 - ✅ Longest Repeating Substring with Replacement
 - ✅ Permutation String
+- ✅ Minimum Window with Characters
 
 ### **Other**
 - ✅ Concatenation of Array
@@ -63,7 +66,7 @@ Current focus areas and solved problems:
 
 ##  Author
 
-**Tiago Fortunato**  
+**Tiago Fortunato**
 Software Engineer | Berlin, Germany
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tiagorcfortunato/)
